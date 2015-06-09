@@ -1,0 +1,6 @@
+node_modules
+production
+development/js/react/build
+development/scss/build
+*.log
+./**/*.log
